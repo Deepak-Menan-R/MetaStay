@@ -1,0 +1,524 @@
+{
+  "default": {
+    "firstSceneId": 1
+  },
+  "scenes": [
+    {
+      "sceneId": 1,
+      "title": "Plaza de Callao",
+      "panorama": "panorama/hotel_exterior.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 2220,
+          "top": 1300,
+          "text": "Enter the Hotel"
+        },
+        {
+          "type": "info",
+          "left": 1080,
+          "top": 980,
+          "text": "La-Cresta restaurant: Offers wide varieties of cuisines."
+        },
+        {
+          "type": "title",
+          "left": 1750,
+          "top": 1010,
+          "text": "",
+          "panel": "left-panel"
+        },
+        {
+          "type": "info",
+          "left": 1900,
+          "top": 925,
+          "text": "Click on the logo to see the Amenities"
+        },
+        {
+          "type": "title",
+          "left": 2600,
+          "top": 1010,
+          "text": "Experience a comfortable stay at this contemporary property featuring well-appointed rooms, multiple dining spots, a well-equipped gym and a wide range of amenities.",
+          "panel": "right-panel"
+        }
+      ]
+    },
+    {
+      "sceneId": 2,
+      "title": "Suite",
+      "panorama": "panorama/360_hotel_bedroom1.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 650,
+          "top": 1000,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "title",
+          "left": 1650,
+          "top": 1000,
+          "text": "Suite: The Most luxurious room at our propery coming in with an amazing private dining and living area"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 650,
+          "top": 1070,
+          "text": "View Suite"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 650,
+          "top": 1140,
+          "text": "View Nearby Attractions"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 650,
+          "top": 1210,
+          "text": "View Neighborhood"
+        },
+        {
+          "type": "info",
+          "left": 1300,
+          "top": 1090,
+          "text": "Satellite TV. Click on the TV to see the Demo"
+        },
+        {
+          "type": "video",
+          "left": 1180,
+          "top": 1175,
+          "width": 180,
+          "height": 130, 
+          "rotateY": "0deg",
+          "src" : "panorama/Tv.mp4"
+        },
+        {
+          "type": "info",
+          "left": 1450,
+          "top": 1000,
+          "text": "Power Shower"
+        },
+        {
+          "type": "info",
+          "left": 0,
+          "top": 1350,
+          "text": "Hand made Work Desk"
+        },
+        {
+          "type": "info",
+          "left": 4200,
+          "top": 1300,
+          "text": "Fine Dining / Living space"
+        }
+      ]
+    },
+    {
+      "sceneId": 3,
+      "title": "Plaza Mayor",
+      "panorama": "panorama/hotel_reception.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1100,
+          "top": 1000,
+          "text": "Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 12,
+          "left": 200,
+          "top": 1000,
+          "text": "Way to Hotel Bar"
+        },
+        {
+          "type": "info",
+          "left": 3900,
+          "top": 1105,
+          "text": "This is the Lift for Guests"
+        },
+        {
+          "type": "scene",
+          "sceneId": 1,
+          "left": 2590,
+          "top":950,
+          "text": "Hotel Exterior"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1100,
+          "top": 1080,
+          "text": "Suite"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 1100,
+          "top": 1160,
+          "text": "Neighbourhood"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 1100,
+          "top": 1240,
+          "text": "Nearby Attractions"
+        },
+        {
+          "type": "scene",
+          "sceneId": 1,
+          "left": 1100,
+          "top": 1320,
+          "text": "Hotel Exterior"
+        },
+        {
+          "type": "info",
+          "left": 3180,
+          "top": 1100,
+          "text": "Waiting area for our guests"
+        } ,
+        {
+          "type": "scene",
+          "sceneId": 7,
+          "left": 1400,
+          "top": 1000,
+          "text": "Parking Area"
+        },
+        {
+          "type": "scene",
+          "sceneId": 8,
+          "left": 1400,
+          "top": 1080,
+          "text": "Swimming Pool"
+        },
+        {
+          "type": "scene",
+          "sceneId": 9,
+          "left": 1400,
+          "top": 1160,
+          "text": "Diverse Culinary Experience"
+        },
+        {
+          "type": "scene",
+          "sceneId": 10,
+          "left": 1400,
+          "top": 1240,
+          "text": "Gymnasium"
+        },
+        {
+          "type": "scene",
+          "sceneId": 11,
+          "left": 1400,
+          "top": 1320,
+          "text": "Massage and Spa"
+        }                
+      ]
+    },
+    {
+      "sceneId": 4,
+      "title": "Deluxe Room",
+      "panorama": "panorama/360_hotel_bedroom2.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 100,
+          "top": 950,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 100,
+          "top": 1020,
+          "text": "View Suite"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 100,
+          "top": 1090,
+          "text": "View Nearby Attractions"
+        },
+        {
+          "type": "scene",
+          "sceneId": 6,
+          "left": 100,
+          "top": 1160,
+          "text": "View Neighborhood"
+        },
+        {
+          "type": "title",
+          "left": 2700,
+          "top": 1000,
+          "text": "Deluxe Room: the most booked room at our property, Providing a wide range of amenities to our visitors for a wonderful stay experience."
+        },
+        {
+          "type": "info",
+          "left": 3050,
+          "top": 1200,
+          "text": "Hand made Work Desk"
+        },
+        {
+          "type": "info",
+          "left": 2500,
+          "top": 1000,
+          "text": "Satellite TV Contains 5000+ channels. Click on the TV to see the Demo"
+        },
+        {
+          "type": "video",
+          "left": 2350,
+          "top": 1150,
+          "width": 275,
+          "height": 240,
+          "rotateY": "5deg",
+          "src" : "panorama/Tv.mp4"
+        }
+      ]
+    },
+    {
+      "sceneId": 5,
+      "title": "Mercado de San Miguel",
+      "panorama": "panorama/360_gdansk.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1100,
+          "top": 900,
+          "text": "Back to Recption"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1100,
+          "top": 970,
+          "text": "View Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1100,
+          "top": 1040,
+          "text": "View Suite"
+        },
+        {
+          "type": "info",
+          "left": 3500,
+          "top": 1200,
+          "text": "The Statue of Mercus"
+        },
+        {
+          "type": "info",
+          "left": 2500,
+          "top": 1000,
+          "text": "The Al-Budr market: The most popular market in town offerine wide variety of decors."
+        }            
+      ]
+    },
+    {
+      "sceneId": 6,
+      "title": "Mercado de San Miguel",
+      "panorama": "panorama/360_neighbor.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1100,
+          "top": 1150,
+          "text": "Back To Reception"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1100,
+          "top": 1220,
+          "text": "View Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1100,
+          "top": 1290,
+          "text": "View Suite"
+        },
+        {
+          "type": "scene",
+          "sceneId": 5,
+          "left": 1100,
+          "top": 1360,
+          "text": "View Nearby Attractions"
+        }
+      ]
+    },
+    {
+      "sceneId": 7,
+      "title": "Parking Area",
+      "panorama": "panorama/parking.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1600,
+          "top": 1150,
+          "text": "Back To Reception"
+        }
+      ]
+    },
+    {
+      "sceneId": 8,
+      "title": "Swimming Pool",
+      "panorama": "panorama/swimpt.png",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1100,
+          "top": 1040,
+          "text": "Back to Recption"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1100,
+          "top": 1120,
+          "text": "View Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1100,
+          "top": 1200,
+          "text": "View Suite"
+        },
+        {
+          "type": "info",
+          "left": 2200,
+          "top": 1250,
+          "text": "poolside seating area"
+        }
+                  
+      ]
+    },
+    {
+      "sceneId": 9,
+      "title": "Diverse Culinary Experience",
+      "panorama": "panorama/food.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 350,
+          "top": 1150,
+          "text": "Back To Reception"
+        }
+      ]
+    },
+    {
+      "sceneId": 10,
+      "title": "Gym",
+      "panorama": "panorama/gymm.jpeg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1100,
+          "top": 1040,
+          "text": "Back to Recption"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1100,
+          "top": 1120,
+          "text": "View Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1100,
+          "top": 1200,
+          "text": "View Suite"
+        },
+        {
+          "type": "info",
+          "left": 2000,
+          "top": 1000,
+          "text": "The gym: Experience our newly renovated gym equipped with state-of-the-art facilities and the latest exercise equipment."
+        }                  
+      ]
+    },
+    {
+      "sceneId": 11,
+      "title": "Massage and spa",
+      "panorama": "panorama/massage.jpg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1100,
+          "top": 1150,
+          "text": "Back To Reception"
+        }
+      ]
+    },
+    {
+      "sceneId": 12,
+      "title": "Hotel Bar",
+      "panorama": "panorama/bar.jpeg",
+      "hotSpots": [
+        {
+          "type": "scene",
+          "sceneId": 3,
+          "left": 1600,
+          "top": 1040,
+          "text": "Back to Recption"
+        },
+        {
+          "type": "scene",
+          "sceneId": 4,
+          "left": 1600,
+          "top": 1120,
+          "text": "View Deluxe Room"
+        },
+        {
+          "type": "scene",
+          "sceneId": 2,
+          "left": 1600,
+          "top": 1200,
+          "text": "View Suite"
+        },
+        {
+          "type": "info",
+          "left": 2860,
+          "top": 1170,
+          "text": "Table set up to eat and enjoy"
+        },
+        {
+          "type": "info",
+          "left": 2200,
+          "top": 1250,
+          "text": "Billiards Table to play"
+        },
+        {
+          "type": "info",
+          "left": 500,
+          "top": 1000,
+          "text": "Hotel Bar"
+        },
+        {
+          "type": "title",
+          "left": 0,
+          "top": 1000,
+          "text": "Fine Dining : Experience exquisite dining and exceptional cocktails at our hotel's fine dining establishment. Enjoy a sophisticated ambiance and a menu featuring gourmet cuisine and premium beverages."
+        }
+      ]
+    }
+  ]
+}
