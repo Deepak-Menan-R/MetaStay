@@ -1,8 +1,8 @@
-![Virtralogo](https://user-images.githubusercontent.com/39118679/235512264-acc8227b-da41-45c4-8057-3998bbd2d2aa.png)
+![MetaStayLogo]([https://user-images.githubusercontent.com/39118679/235512264-acc8227b-da41-45c4-8057-3998bbd2d2aa.png](https://github.com/Deepak-Menan-R/MetaStay/tree/main/FrontEnd_MetaStay/static_assets))
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# VIRTRA
+# MetaStay
 
 Want to see the future of hotel bookings??
 
